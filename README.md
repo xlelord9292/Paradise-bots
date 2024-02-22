@@ -1,6 +1,6 @@
-# Paradise Bots
+# Relational Hosting Bots
 
-* Paradise Bots Are Projects To Help People Grow A Enhance Mind Set For Coding
+* Relational Hosting Are Projects To Help People Grow A Enhance Mind Set For Coding
 
 * All These Projects Are Written In JS Which Stands For JavaScript
 
@@ -19,5 +19,5 @@
 
 # Best Regards,
 
-* Relational Throne (Paradise Hosting)
+* Relational Throne (Relational Hosting)
 
